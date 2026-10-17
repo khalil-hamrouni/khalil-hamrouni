@@ -1,8 +1,3 @@
-<ElicitationsGroup>
-
-Voici la version améliorée et optimisée de votre profil GitHub README en anglais (sans texte en arabe), propre et prête à être copiée-collée :
-
-```markdown
 <div align="center">
 
 <img src="https://github.com/khalil-hamrouni/khalil-hamrouni/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -76,34 +71,3 @@ class Developer extends Student {
     "Tools": ["VS Code", "Git", "Cisco Packet Tracer", "DaVinci Resolve"]
   };
 }
-```
-
-- 🔭 I’m currently learning **Cloud Engineering, DevOps & Frappe Framework**.
-- 🐧 I enjoy tweaking **GNU/Linux** environments and configuring virtual labs.
-- 💬 Ask me about **PC Building, Linux, Web Development, or Cinema**.
-- 📬 Reach out to me on Telegram: **[Khalil](https://t.me/spxd007)**
-- ⚡ Fun Fact: Debugging C++ memory leaks burns more mental energy than an intense workout!
-
-<hr>
-
-<div align="center">
-
-### 📊 GitHub Activity & Stats
-
-<a href="https://github.com/khalil-hamrouni">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalil-hamrouni&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-hamrouni&layout=compact&theme=nord&hide_border=true" width="48%" />
-</a>
-
-<br><br>
-
-**Development Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="System Broken"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It works"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="It works but why?"/>
-
-</div>
-```
